@@ -44,12 +44,29 @@
 
 8. Apply to at least 3 software engineering/data science jobs or internships a week, get as many applications in as possible
 
-...You can't get a job without applying. I can do everything else perfectly but if I do not get a good application in then I won't get the job. It is also a numbers game. The more applications I can get in the more odds I have of getting a call back. This is also been a big barrier in the past for not getting a job sooner. 
+...You can't get a job without applying. I can do everything else perfectly but if I do not get a good application in then I won't get the job. It is also a numbers game. The more applications I can get in the more odds I have of getting a call back. This is also been a big barrier in the past for not getting a job sooner.
 
 
 ## Prioritized and rated list
-| Priority      | Action #      | Rating|
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Rating (1-10) | Action #      | Priority|
+| ------------- |:-------------:| -----:  |
+| 10            | 3             | High    |
+| 9             | 2             | High    |
+| 8             | 7             | High    |
+| 9             | 12            | High    |
+| 10            | 8             | High    |
+| 10            | 6             | High    |
+| 8             | 19            | Medium  |
+| 8             | 9             | Medium  |
+| 7             | 18            | Medium  |
+| 7             | 17            | Medium  |
+| 7             | 20            | Medium  |
+| 8             | 14            | Medium  |
+| 10            | 5             | Medium  |
+| 8             | 11            | Medium  |
+| 9             | 4             | Medium  |
+| 9             | 1             | Medium  |
+| 7             | 10            | Low     |
+| 7             | 16            | Low     |
+| 4             | 13            | Low     |
+| 8             | 15            | Low     |
