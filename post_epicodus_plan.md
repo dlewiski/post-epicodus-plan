@@ -16,4 +16,11 @@
 10. Work with Tomolla consulting to create a SaaS tool for their recycling survey data
 11. Meet in person at least once a week with a tech contact, talk about current project, job search, how their work is going, general catch up
 12. Develop mentor/mentee relationship with one of my current tech contacts, thinking Oscar from Cvent (senior developer with over 14 years experience). Make the ask and define a scope for what the relationship looks like.
-13. 
+13. Research and develop a front end (React) that can help visualize Python data analysis
+14. Learn TensorFlow to make a prediction on recycling data for the Portland Metro Area
+15. Complete master recycling course through Oregon State University
+16. Learn about UNIX and how to use grep.
+17. Learn SSH to better understand network and data security.
+18. Setup a Sinatra project, deploy it to tiny instance of EC2 and tail the log.
+19. Create a create simple data model to do data queries and search, use Angular.
+20. Write script to save in dynamo data base using AWS Lamda.
