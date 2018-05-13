@@ -2,7 +2,7 @@
 * Plan of action items after finishing Epicodus to secure a full time software engineering or entry level data science position
 
 ## Action items
-* The follow is a list of specific tasks in no particular order
+* The following is a list of specific tasks in no particular order
 
 1. Do two problems a week from "Cracking the Coding Interview".
 2. Attend at least two meetups a week: examples include Ruby Brigade, Ask a Dev, Mentorship Saturdays, Donut.js, and of course Tech and Pong.
@@ -28,23 +28,23 @@
 ## Top 5 actions
 3. Build a serverless website through AWS, either do this with capstone or portfolio site
 
-...Key project to have in my portfolio, will demonstrate a key skillset and validate my ability to contribute to cloud based software development work
+⋅⋅⋅Key project to have in my portfolio, will demonstrate a key skillset and validate my ability to contribute to cloud based software development work
 
 2. Attend at least two meetups a week: examples include Ruby Brigade, Ask a Dev, Mentorship Saturdays, Donut.js, and of course Tech and Pong.
 
-... Networking is so important to landing the first software engineering job. Must make those in person connections and get my person brand more known by the community. Hand out business card, learn about other people's work, make the ask to stay connect if decent conversation.
+⋅⋅⋅ Networking is so important to landing the first software engineering job. Must make those in person connections and get my person brand more known by the community. Hand out business card, learn about other people's work, make the ask to stay connect if decent conversation.
 
 7. Create tech networking spreadsheet and reach out to at least 5 different people/companies in the industry each week (LinkedIn, companies that post interesting jobs).
 
-... This task follows a similar goal for action #3. Stay organized with networking and impress contacts by recalling conversations and details that were discussed. Also know who to follow up with after applying to jobs.
+⋅⋅⋅This task follows a similar goal for action #3. Stay organized with networking and impress contacts by recalling conversations and details that were discussed. Also know who to follow up with after applying to jobs.
 
 12. Develop mentor/mentee relationship with one of my current tech contacts, thinking Oscar from Cvent (senior developer with over 14 years experience). Make the ask and define a scope for what the relationship looks like.
 
-...Developing a mentor/mentee relationship will be fantastic for keeping focus and motivation. Having check ins and someone to help improve my coding as well as skill building efforts will help every aspect of my tech career. Being able to ask questions and get feedback on my knowledge and application materials will also be key.
+⋅⋅⋅Developing a mentor/mentee relationship will be fantastic for keeping focus and motivation. Having check ins and someone to help improve my coding as well as skill building efforts will help every aspect of my tech career. Being able to ask questions and get feedback on my knowledge and application materials will also be key.
 
 8. Apply to at least 3 software engineering/data science jobs or internships a week, get as many applications in as possible
 
-...You can't get a job without applying. I can do everything else perfectly but if I do not get a good application in then I won't get the job. It is also a numbers game. The more applications I can get in the more odds I have of getting a call back. This is also been a big barrier in the past for not getting a job sooner.
+⋅⋅⋅You can't get a job without applying. I can do everything else perfectly but if I do not get a good application in then I won't get the job. It is also a numbers game. The more applications I can get in the more odds I have of getting a call back. This is also been a big barrier in the past for not getting a job sooner.
 
 
 ## Prioritized and rated list
